@@ -1,4 +1,5 @@
 #banner_part{
+    margin-bottom: 50px;
     max-height: 100%;
     max-width: 100%;
     min-height: 60vh; 
@@ -31,4 +32,70 @@
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
+}
+
+/* banner part end */
+
+/* donation part start */
+
+#donation_part{
+    margin-bottom: 100px;
+}
+
+.donation_text{
+    text-align: center;
+}
+
+.amount_text{
+    display: flex;
+}
+
+.amount_one{
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 70px;
+    width:20%;
+    height:100px;
+}
+
+.amount_two{
+    text-align: center;
+    border: 1px solid red;
+    padding-left: 20px;
+    padding-top: 70px;
+    width:20%;
+    height:100px;
+}
+
+.amount_three{
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 70px;
+    width:20%;
+    height:100px;
+}
+
+.amount_four{
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 70px;
+    width: 20%;
+    height:100px;
+}
+
+.amount_five{
+    text-align: center;
+    padding-right: 20px;
+    padding-top: 70px;
+    width: 20%;
+    height:100px;
+}
+
+#donate_box{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.donate_button{
+    padding-top: 50px;
 }
