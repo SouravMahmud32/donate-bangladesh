@@ -99,3 +99,37 @@
 .donate_button{
     padding-top: 50px;
 }
+
+/* donation part end */
+
+/* donation plan part start */
+
+.all_plans{
+    padding-bottom: 100px;
+}
+
+.plan_text{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.plan_one{
+    float:left;
+    background:rgb(219, 243, 245);
+    width:33%;
+    height:280px;
+}
+
+.plan_two{
+    float:left; 
+    background:rgb(247, 203, 203);
+    width:33%;
+    height:280px;
+}
+
+.plan_three{
+    float:right; 
+    background:rgb(241, 199, 238);
+    width:33%;
+    height:280px;
+}
