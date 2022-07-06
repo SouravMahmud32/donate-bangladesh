@@ -11,11 +11,18 @@
 .banner_text{
     text-align: center;
     color: white;
-    padding-top: 100px;
+    padding-top: 10px;
+}
+
+.banner_text h1{
+    font-size: 50px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
 }
 
 .banner_text p{
     padding-bottom: 25px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .link_button{
@@ -44,6 +51,24 @@
 
 .donation_text{
     text-align: center;
+}
+
+.donation_text h2{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+}
+
+.donation_text p{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.amount_text h3{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
 }
 
 .amount_text{
@@ -105,7 +130,25 @@
 /* donation plan part start */
 
 .all_plans{
-    padding-bottom: 100px;
+    padding-bottom: 200px
+}
+
+.all_plans h2{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+}
+
+.all_plans p{
+    font-size: 13px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.all_plans h4{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
 }
 
 .plan_text{
@@ -116,22 +159,26 @@
 .plan_one{
     float:left;
     background:rgb(219, 243, 245);
-    width:33%;
+    width:25%;
     height:280px;
+    padding: 50px;
 }
 
 .plan_two{
     float:left; 
     background:rgb(247, 203, 203);
-    width:33%;
+    width:25%;
     height:280px;
+    padding: 50px;
+    margin-left: 15px;
 }
 
 .plan_three{
     float:right; 
     background:rgb(241, 199, 238);
-    width:33%;
+    width:25%;
     height:280px;
+    padding: 50px;
 }
 
 /* donation plan part end */
@@ -143,6 +190,19 @@
     width: 100%;
     margin-top: 300px;
     text-align: center;
+}
+
+.cont_text h3{
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+}
+
+.cont_text p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .cont_para{
@@ -170,6 +230,18 @@
     padding-bottom: 50px;
 }
 
+.update_text h3{
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+}
+
+.update_text p{
+    font-size: 13px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
 #update_box{
     border: 50px solid rgb(226, 223, 223);
     margin-left: 350px;
@@ -186,6 +258,18 @@
     height: 200px;
     background-color: black;
     text-align: center;
+}
+
+.footer_text p{
+    font-size: 10px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer_text h3{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
 }
 
 .fot_txt{
