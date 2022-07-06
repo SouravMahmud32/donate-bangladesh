@@ -133,3 +133,27 @@
     width:33%;
     height:280px;
 }
+
+/* donation plan part end */
+
+/* contribution part start */
+
+#cont_part{
+    display: flex;
+    width: 100%;
+    margin-top: 300px;
+    text-align: center;
+}
+
+.cont_para{
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 70px;
+}
+
+#cont_part img{
+    width:400px;
+    height: 500px;
+}
+
+/* contribution part end */
